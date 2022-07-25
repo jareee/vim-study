@@ -6,7 +6,8 @@
 <h2>Move cursor in text</h2>
 
 **Jupt to frist character in line**
-<em>0</em>
+
+0
 
 **Jump to line N**
 
