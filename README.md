@@ -9,6 +9,20 @@
 
 0
 
+**Jupt to first character in screen line**
+
+g$
+
+
+**Jupt to last character in line**
+
+$
+
+**Jupt to last character in screen line**
+
+g$
+
+
 **Jump to line N**
 
 g N
@@ -19,7 +33,12 @@ g 16
 g
 or 
 G
+ 
+**Jump to typed character (in example "o")**
 
+f<character>
+fo
+  
 
 <h2> Copy text </h2>
 
