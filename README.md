@@ -39,8 +39,34 @@ G
 f<character>
 fo
   
-
-<h2> Copy text </h2>
+**jump words forward**
+ 
+ w
+ 
+ **Jump word backwars**
+ 
+ b
+ 
+ **Jump sentence forward**
+ 
+ )
+ 
+ 
+ **Jump sentence backward**
+ 
+ (
+ 
+ **Jump paragrapchs forward**
+ 
+ ]
+ 
+ **Jump paragraphs backward**
+ 
+ [
+ 
+ 
+ 
+ <h2> Copy text </h2>
 
 
 **Copy whole chapter**  
