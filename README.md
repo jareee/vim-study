@@ -5,10 +5,16 @@
 
 <h2>Move in text</h2>
 
-** Jump to line N
+**Jump to line N**
 
-gg N
-gg 16
+g N
+g 16
+
+**Jump to start**
+
+g
+or 
+G
 
 
 <h2> Copy text </h2>
