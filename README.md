@@ -64,6 +64,10 @@ fo
  
  {
  
+ <h2>Search</h2>
+ 
+ /*pattern*+enter
+ 
  
  <h2> Copy text </h2>
 
