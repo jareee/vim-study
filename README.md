@@ -4,8 +4,10 @@ Vim study notes
 
 <h2>Commands in</h2 
 
-Copy line  
+*Copy whole chapter*  
 yy
 
-paste copyed content
-p or P
+*paste copyed content*
+p 
+
+
