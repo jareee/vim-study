@@ -64,13 +64,20 @@ fo
  
  {
  
- <h2>Search</h2>
+ <h2>Searcbackward 
+ **Search pat?rn**
  
- /*pattern
+ /*patter
  
-  
+ ** Repeat last search forward direction**
  
- <h2> Copy text </h2>
+ /+enter
+ 
+  ** Repeat last search backward direction**
+ 
+?+enter
+ 
+<h2> Copy text </h2>
 
 
 **Copy whole chapter**  
