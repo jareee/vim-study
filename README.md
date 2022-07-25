@@ -58,12 +58,11 @@ fo
  
  **Jump paragrapchs forward**
  
- ]
+ }
  
  **Jump paragraphs backward**
  
- [
- 
+ {
  
  
  <h2> Copy text </h2>
