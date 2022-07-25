@@ -36,7 +36,7 @@ G
  
 **Jump to typed character (in example "o")**
 
-f"<character>" \
+f"*character*" \
 fo
   
 **jump words forward**
