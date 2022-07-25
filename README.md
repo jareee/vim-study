@@ -66,8 +66,9 @@ fo
  
  <h2>Search</h2>
  
- /*pattern*+enter
+ /*pattern
  
+  
  
  <h2> Copy text </h2>
 
