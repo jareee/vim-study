@@ -3,7 +3,10 @@
 <h1>Vim tips</h1>
 *Commands in command line (not in editing mode)*
 
-<h2>Move in text</h2>
+<h2>Move cursor in text</h2>
+
+**Jupt to frist character in line**
+<em>0</em>
 
 **Jump to line N**
 
